@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Sky Pilot mark: double summit at alpenglow with glacier tucked below -->
+  <rect width="64" height="64" rx="12" fill="#f6f1eb"/>
+  <!-- double-summit profile: Co-pilot left, Sky Pilot right and taller -->
+  <path d="M6 46 L20 28 L26 33 L38 14 L46 24 L54 34 L58 46 Z" fill="#b06a63"/>
+  <!-- lit facet on the main summit -->
+  <path d="M38 14 L46 24 L40 27 Z" fill="#dba396"/>
+  <!-- glacier tucked in the basin -->
+  <path d="M22 38 C 27 34.5, 38 34, 44 36.5 C 47 38, 45 40, 40 40.5 C 33 41.2, 25 41, 22 39.5 C 20.6 38.9, 20.8 38.4, 22 38 Z" fill="#e8eef0"/>
+  <path d="M25 38.6 C 30 37, 37 36.8, 42 38" fill="none" stroke="#b9cdd3" stroke-width="1.1" stroke-linecap="round"/>
+  <!-- Howe Sound steel-blue baseline -->
+  <path d="M6 50 H58" stroke="#4e6f84" stroke-width="2.4" stroke-linecap="round"/>
+</svg>
